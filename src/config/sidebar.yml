@@ -1,10 +1,9 @@
 # Sidebar navigation
-
 - label: 'Home Page'
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
-  label: 'Uses'
+  label: 'Tools'
   link: '/uses'
 - label: Usage
   items:
