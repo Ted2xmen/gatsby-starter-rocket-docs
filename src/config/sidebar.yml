@@ -5,6 +5,9 @@
 - label: 'Getting started'
   link: '/getting-started'
 
+
+
+
 - label: Usage
   items:
     - label: 'Creating docs'
@@ -14,20 +17,36 @@
     - label: 'Shadowing'
       link: '/usage/shadowing'
 
-- label: Learning Sources
+
+- label: Front-End
   items:
+    - label: 'Tools'
+      link: '/front/tools'
+    - label: 'Libraries'
+      link: '/front/libraries'
+    - label: 'Design 101'
+      link: '/front/design'
+
+- label: Resources for
+  items:
+    - label: 'Git'
+      link: '/learning/git'
     - label: 'HTML and CSS'
       link: '/learning/html-css'
     - label: 'JavaScript'
       link: '/learning/javascript'
     - label: 'React'
       link: '/learning/react'
+    - label: 'TypeScript'
+      link: '/learning/typescript'
+    - label: 'Node JS'
+      link: '/learning/nodejs'
+    - label: 'MongoDB'
+      link: '/learning/mongodb'
 
 - label: More
   items:
     - label: Contact
       link: /contact
-    - label: 'Github'
-      link: https://github.com/ted2xmen
     - label: 'Medium'
       link: https://ted2xmen.medium.com/
