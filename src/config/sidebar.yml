@@ -3,8 +3,6 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
-  label: 'Tools'
-  link: '/uses'
 - label: Usage
   items:
     - label: 'Creating docs'
@@ -23,6 +21,8 @@
       link: '/learning/react'
 - label: More
   items:
+      label: 'Tools'
+      link: '/uses'
     - label: Contact
       link: /contact
     - label: 'Github'
