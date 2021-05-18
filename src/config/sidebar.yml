@@ -2,11 +2,11 @@
 
 - label: 'Home Page'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
 
 - label: Front-End
   items:
+    - label: 'Roadmap'
+      link: '/front/roadmap'
     - label: 'Tools'
       link: '/front/tools'
     - label: 'Libraries'
@@ -16,8 +16,6 @@
 
 - label: Resources for
   items:
-    - label: 'Git'
-      link: '/learning/git'
     - label: 'HTML and CSS'
       link: '/learning/html-css'
     - label: 'JavaScript'
@@ -35,5 +33,4 @@
   items:
     - label: Contact
       link: /contact
-    - label: 'Medium'
-      link: https://ted2xmen.medium.com/
+
