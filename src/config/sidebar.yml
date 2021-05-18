@@ -12,6 +12,12 @@
       link: '/usage/navigation'
     - label: 'Shadowing'
       link: '/usage/shadowing'
+- label: Learning Sources
+  items:
+    - label: 'JavaScript'
+      link: '/learning/javascript'
+    - label: 'React'
+      link: '/learning/react'
 - label: More
   items:
     - label: Contact
