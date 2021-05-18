@@ -21,8 +21,6 @@
       link: '/learning/react'
 - label: More
   items:
-      label: 'Tools'
-      link: '/uses'
     - label: Contact
       link: /contact
     - label: 'Github'
