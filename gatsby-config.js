@@ -8,7 +8,7 @@ module.exports = {
     siteAuthor: `@ted2xmen`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
-    themeColor: `#8257E6`,
+    themeColor: `#00A82D`,
     basePath: `/`,
   },
   flags: { PRESERVE_WEBPACK_CACHE: true },
