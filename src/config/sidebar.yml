@@ -4,6 +4,8 @@
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+  label: 'Uses'
+  link: '/uses'
 - label: Usage
   items:
     - label: 'Creating docs'
@@ -14,6 +16,8 @@
       link: '/usage/shadowing'
 - label: Learning Sources
   items:
+    - label: 'HTML and CSS'
+      link: '/learning/html-css'
     - label: 'JavaScript'
       link: '/learning/javascript'
     - label: 'React'
