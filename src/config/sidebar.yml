@@ -1,6 +1,6 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'Home Page'
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
@@ -14,9 +14,9 @@
       link: '/usage/shadowing'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
+    - label: Contact
+      link: /contact
     - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/ted2xmen
     - label: 'Medium'
       link: https://ted2xmen.medium.com/
