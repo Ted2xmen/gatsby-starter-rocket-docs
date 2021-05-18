@@ -1,8 +1,10 @@
 # Sidebar navigation
+
 - label: 'Home Page'
   link: '/'
 - label: 'Getting started'
   link: '/getting-started'
+
 - label: Usage
   items:
     - label: 'Creating docs'
@@ -11,6 +13,7 @@
       link: '/usage/navigation'
     - label: 'Shadowing'
       link: '/usage/shadowing'
+
 - label: Learning Sources
   items:
     - label: 'HTML and CSS'
@@ -19,6 +22,7 @@
       link: '/learning/javascript'
     - label: 'React'
       link: '/learning/react'
+
 - label: More
   items:
     - label: Contact
