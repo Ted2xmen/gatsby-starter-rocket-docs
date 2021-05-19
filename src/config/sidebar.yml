@@ -5,7 +5,7 @@
 
 - label: Front-End
   items:
-    - label: 'Roadmap'
+    - label: 'Roadmap✔️'
       link: '/front/roadmap'
     - label: 'Tools'
       link: '/front/tools'
@@ -14,7 +14,7 @@
     - label: 'Design 101'
       link: '/front/design'
 
-- label: Resources for
+- label: 📝Resources for
   items:
     - label: 'HTML and CSS'
       link: '/learning/html-css'
@@ -31,6 +31,6 @@
 
 - label: More
   items:
-    - label: Contact
+    - label: Contact✉️
       link: /contact
 
