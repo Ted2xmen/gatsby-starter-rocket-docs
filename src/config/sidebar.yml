@@ -2,20 +2,22 @@
 
 - label: 'Home Page'
   link: '/'
-- label: 'Roadmap'
-  link: '/roadmap'
+- label: 'Status'
+  link: '/status'
 
-- label: 📁 Useful Links
+- label: 📁 Useful
   items:
+    - label: 'Links'
+      link: '/links/links'
     - label: 'Tools'
-      link: '/front/tools'
+      link: '/links/tools'
     - label: 'Libraries'
-      link: '/front/libraries'
-    - label: 'Design 101'
-      link: '/front/design'
+      link: '/links/libraries'
 
 - label: 📝 Resources for
   items:
+    - label: 'UI & UX'
+      link: '/learning/design'
     - label: 'HTML and CSS'
       link: '/learning/html-css'
     - label: 'JavaScript'
