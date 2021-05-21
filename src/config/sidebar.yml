@@ -2,11 +2,11 @@
 
 - label: 'Home Page'
   link: '/'
+- label: 'Roadmap'
+  link: '/roadmap'
 
-- label: Front-End
+- label: 📁 Useful Links
   items:
-    - label: 'Roadmap✔️'
-      link: '/front/roadmap'
     - label: 'Tools'
       link: '/front/tools'
     - label: 'Libraries'
@@ -14,7 +14,7 @@
     - label: 'Design 101'
       link: '/front/design'
 
-- label: 📝Resources for
+- label: 📝 Resources for
   items:
     - label: 'HTML and CSS'
       link: '/learning/html-css'
@@ -29,8 +29,8 @@
     - label: 'MongoDB'
       link: '/learning/mongodb'
 
-- label: More
+- label:✉️ More
   items:
-    - label: Contact✉️
+    - label: Contact
       link: /contact
 
