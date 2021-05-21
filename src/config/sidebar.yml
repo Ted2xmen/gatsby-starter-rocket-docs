@@ -2,17 +2,17 @@
 
 - label: 'Home Page'
   link: '/'
-- label: 'Status'
-  link: '/status'
+- label: 'My Roadmap'
+  link: '/roadmap'
 
 - label: 📁 Useful
   items:
     - label: 'Links'
-      link: '/links/links'
+      link: '/link/links'
     - label: 'Tools'
-      link: '/links/tools'
+      link: '/link/tools'
     - label: 'Libraries'
-      link: '/links/libraries'
+      link: '/link/libraries'
 
 - label: 📝 Resources for
   items:
