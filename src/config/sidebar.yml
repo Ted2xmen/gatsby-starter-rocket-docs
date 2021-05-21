@@ -29,7 +29,7 @@
     - label: 'MongoDB'
       link: '/learning/mongodb'
 
-- label:✉️ More
+- label: ✉️ More
   items:
     - label: Contact
       link: /contact
