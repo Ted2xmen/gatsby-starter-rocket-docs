@@ -22,11 +22,10 @@ description: Learn how to get started with Rocket Docs.
 | ---------------------  |
 | [A free guide to HTML](https://htmlreference.io/)     | 
 | [Style Guide for FrontEnd Devs](https://a11y-style-guide.com/style-guide/)  |
-| [A free visual guide to CSS](https://cssreference.io/animations/)  |
-| [Web.Dev Learn CSS](https://web.dev/learn/css/)
+| [A free visual guide to CSS](https://cssreference.io/animations/
+| [Web.Dev Learn CSS](https://web.dev/learn/css/)|
 
-|[]()|
-|[]()|
+
 
 
 ### UI & UX

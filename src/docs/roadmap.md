@@ -61,7 +61,8 @@ description:
 |      |   | 
 | ----------  |-------- |
 | Front End Developer           | ⏳  |
-| Fullstack MERN Developer      | ⏳  |
+| Learn Gatsby           | ⏳  |
+| MERN      | ⏳  |
 | Learn Ruby on Rails           | ⏳  |
 
 
