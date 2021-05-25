@@ -11,19 +11,13 @@
       link: '/link/links'
     - label: 'Tools'
       link: '/link/tools'
-    - label: 'Libraries'
-      link: '/link/libraries'
 
-- label: 📝 Resources for
+- label: ⭕ Resources for
   items:
-    - label: 'UI & UX'
-      link: '/learning/design'
-    - label: 'HTML and CSS'
+    - label: 'HTML & CSS'
       link: '/learning/html-css'
-    - label: 'JavaScript'
-      link: '/learning/javascript'
-    - label: 'React'
-      link: '/learning/react'
+    - label: 'JavaScript \ React '
+      link: '/learning/javascript-react'
     - label: 'TypeScript'
       link: '/learning/typescript'
     - label: 'Node JS'

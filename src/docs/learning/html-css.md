@@ -1,17 +1,7 @@
 ---
-title: JavaScript
+title: Html and CSS
 description: Learn how to create docs using Rocket Docs.
 ---
-
-
-
-## Guides
-
-
-- [Web.Dev Learn CSS](https://web.dev/learn/css/).
-
-
-
 
 
 

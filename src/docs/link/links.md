@@ -16,17 +16,20 @@ description: Learn how to get started with Rocket Docs.
 
 
 
-## Guide's
+## Front-End Guide's
 
 |          | 
 | ---------------------  |
 | [A free guide to HTML](https://htmlreference.io/)     | 
 | [Style Guide for FrontEnd Devs](https://a11y-style-guide.com/style-guide/)  |
 | [A free visual guide to CSS](https://cssreference.io/animations/)  |
-|[]()|
+| [Web.Dev Learn CSS](https://web.dev/learn/css/)
+
 |[]()|
 |[]()|
 
+
+### UI & UX
 
 
 
@@ -37,14 +40,17 @@ description: Learn how to get started with Rocket Docs.
 |[This That Dev](https://thisthat.dev/)|
 |[JavaScript Array Explorer](https://arrayexplorer.netlify.app/)|
 |[Favorite JavaScript Utilities](https://1loc.dev)|
-|[]()|
+|[Learn JavaScript Programming - Programiz](https://www.programiz.com/javascript)|
+|[MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)|
+
+
+### React
 
 
 
+## Framework 
 
-## Framework
-
-| Framework  | 
+|   | 
 | ---------------------  |
 |[Gatsby](https://www.gatsbyjs.com/docs/)|
 |[]()|
@@ -54,5 +60,13 @@ description: Learn how to get started with Rocket Docs.
 
 ## Libraries 
 
+- Mermaid
+- Google Charts
+- Puppeter
+- ...
 
+## Tools
 
+|         | 
+| ---------------------  |
+| [Github Badges](https://shields.io/)   | 
