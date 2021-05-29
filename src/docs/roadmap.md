@@ -11,7 +11,7 @@ description:
 
 >  Watching 📺 Love Death + Robots, Castlevania, Age of Samurai: Battle for Japan
 
->  Playing 🎮 Apex Legends
+>  Playing 🎮 Apex Legends, 
 
 
 
@@ -44,7 +44,7 @@ description:
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
-| MONGODB     | ⏳⏳⏳⏳⏳  |
+| MONGODB     | ✔️✔️⏳⏳⏳  |
 | AWS Cloud   | ⏳⏳⏳⏳⏳  |
 
 >  Learning Docker from [Documentation](https://docs.docker.com/) 💻
