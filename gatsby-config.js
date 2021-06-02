@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `Ted2xmen's Blog`,
     siteTitleShort: `Ted2xmen's Blog`,
     siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://ted2xmen.gatsbyjs.io/`,
+    siteUrl: `https://ted2xmen.vercel.app/`,
     siteAuthor: `@ted2xmen`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,

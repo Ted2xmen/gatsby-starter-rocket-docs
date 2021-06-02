@@ -40,7 +40,7 @@ description:
 | JavaScript         |     Express JS          | ⏳⏳⏳⏳⏳  |
 
 
->  Learning AWS S3 from Coursera 💻
+>  Learning AWS S3 from Coursera 💻⏳
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
@@ -56,17 +56,21 @@ description:
 | NPM & YARN   | ✔️✔️⏳⏳⏳  |
 
 
-## Goals
+## Goals & Interests
 
 |      |   | 
 | ----------  |-------- |
-| Front End Developer           | ⏳  |
 | Learn Gatsby           | ⏳  |
-| MERN      | ⏳  |
-| Learn Ruby on Rails           | ⏳  |
+| Headless CMS      | ⏳  |
+| JAMStack      | ⏳  |
 
 
 ## Certificates
 
-![](static/onemonth.png "One Month JavaScript")
+![](static/onemonth.png "One Month JavaScript ✔️ ")
+![]( "Freecodecamp ⏳ ")
+![]( "MONGODB 101 ⏳ ")
+
+
+
 
