@@ -68,8 +68,7 @@ description:
 ## Certificates
 
 ![](static/onemonth.png "One Month JavaScript ✔️ ")
-![]( "Freecodecamp ⏳ ")
-![]( "MONGODB 101 ⏳ ")
+
 
 
 

@@ -27,6 +27,10 @@
 
 - label: ✉️ More
   items:
+    - label: MDN | JavaScript
+      link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript'
+    - label: CSS | W3School
+      link: 'https://www.w3schools.com/css/default.asp'
     - label: Contact
       link: /contact
 

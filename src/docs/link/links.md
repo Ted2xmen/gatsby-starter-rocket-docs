@@ -13,6 +13,7 @@ description: Learn how to get started with Rocket Docs.
 |[Animate](https://animate.style/)|
 |[Animatelo](https://gibbok.github.io/animatelo/)|
 |[CSSShake](https://elrumordelaluz.github.io/csshake/)|
+|[Magic](https://www.minimamente.com/project/magic/)|
 |[]()|
 |[]()|
 
@@ -31,7 +32,6 @@ description: Learn how to get started with Rocket Docs.
 | [Style Guide for FrontEnd Devs](https://a11y-style-guide.com/style-guide/)  |
 | [A free visual guide to CSS](https://cssreference.io/animations/) |
 | [Web.Dev Learn CSS](https://web.dev/learn/css/)|
-| [Magic](https://www.minimamente.com/project/magic/)|
 |[]()|
 
 
@@ -75,7 +75,7 @@ description: Learn how to get started with Rocket Docs.
 - Puppeter
 - ...
 
-## Tools
+## Others
 
 |         | 
 | ---------------------  |
