@@ -27,7 +27,7 @@ description:
 | LEARN       | Library & Framework   | STATUS  | 
 | ----------  | ----------------------|-------- |
 | CSS         | CSS                   | ✔️✔️✔️⏳⏳    |
-| CSS         | Bootstrap             | ✔️⏳⏳⏳⏳  |
+| CSS         | Bootstrap             | ✔️✔️⏳⏳⏳  |
 | CSS         | SASS & LESS              | ⏳⏳⏳⏳⏳  |
 
 >  Mastering JavaScript 💻
@@ -74,11 +74,16 @@ description:
 
 [Sıfırdan Web Geliştirme Kursu ](https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/)
 
+[Freecodecamp Responsive Web Design  ](https://www.freecodecamp.org/learn/responsive-web-design/)
+
+[Frontend Web Development Patikası  ](https://app.patika.dev/egitimler/frontend-web-development-patikasi)
+
+
 
 
 ## Certificates
 
-![](static/onemonth.png "One Month JavaScript ✔️ ")
+![](static/onemonth.png "One Month JavaScript")
 
 
 
