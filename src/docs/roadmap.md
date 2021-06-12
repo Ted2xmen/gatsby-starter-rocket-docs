@@ -7,7 +7,7 @@ description:
 
 >  Listening podcast and looking around ✨
 
->  Waiting ⏳ Trendyol Front End Bootcamp 
+>  Waiting ⏳ -
 
 >  Watching 📺 Love Death + Robots, Castlevania, Age of Samurai: Battle for Japan
 
