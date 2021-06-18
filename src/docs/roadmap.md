@@ -7,7 +7,7 @@ description:
 
 >  Listening podcast and looking around ✨
 
->  Waiting ⏳ -
+>  Waiting ⏳ Kodluyoruz & Patika
 
 >  Watching 📺 Love Death + Robots, Castlevania, Age of Samurai: Battle for Japan
 
