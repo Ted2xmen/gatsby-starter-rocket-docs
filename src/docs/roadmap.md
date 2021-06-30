@@ -9,6 +9,8 @@ description:
 
 >  Waiting ⏳ Kodluyoruz & Patika
 
+>  Freecodecamp ⏳ JavaScript Algorithms and Data Structures
+
 >  Watching 📺 Love Death + Robots, Castlevania, Age of Samurai: Battle for Japan
 
 >  Playing 🎮 Apex Legends, 
@@ -27,14 +29,15 @@ description:
 | LEARN       | Library & Framework   | STATUS  | 
 | ----------  | ----------------------|-------- |
 | CSS         | CSS                   | ✔️✔️✔️⏳⏳    |
-| CSS         | Bootstrap             | ✔️✔️⏳⏳⏳  |
+| CSS         | Bootstrap             | ✔️✔️✔️⏳⏳  |
+| CSS         | Tailwind             | ✔️⏳⏳⏳⏳  |
 | CSS         | SASS & LESS              | ⏳⏳⏳⏳⏳  |
 
 >  Mastering JavaScript 💻
 
 | LEARN              |  Library & Framework    | STATUS  | 
 | -----------        | ------------------------|-------- |
-| JavaScript         |                         | ✔️✔️⏳⏳⏳ |
+| JavaScript         |                         | ✔️✔️✔️⏳⏳ |
 | JavaScript         |     React               | ✔️⏳⏳⏳⏳  |
 | JavaScript         |     Node JS             | ⏳⏳⏳⏳⏳  |
 | JavaScript         |     Express JS          | ⏳⏳⏳⏳⏳  |
