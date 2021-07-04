@@ -5,15 +5,15 @@ description:
 
 ## Currently
 
->  Listening podcast and looking around ✨
+> Working on : [searchON](https://searchon.vercel.app/)   ![GitHub last commit](https://img.shields.io/github/last-commit/ted2xmen/searchon)
 
->  Waiting ⏳ Kodluyoruz & Patika
-
->  Freecodecamp ⏳ JavaScript Algorithms and Data Structures
+>  Listening podcasts and looking around ✨
 
 >  Watching 📺 Love Death + Robots, Castlevania, Age of Samurai: Battle for Japan
 
->  Playing 🎮 Apex Legends, 
+>  Playing 🎮 Apex Legends 
+
+
 
 
 
@@ -33,7 +33,9 @@ description:
 | CSS         | Tailwind             | ✔️⏳⏳⏳⏳  |
 | CSS         | SASS & LESS              | ⏳⏳⏳⏳⏳  |
 
->  Mastering JavaScript 💻
+
+>  Freecodecamp ⏳ JavaScript Algorithms and Data Structures
+
 
 | LEARN              |  Library & Framework    | STATUS  | 
 | -----------        | ------------------------|-------- |
@@ -43,7 +45,6 @@ description:
 | JavaScript         |     Express JS          | ⏳⏳⏳⏳⏳  |
 
 
->  Learning AWS S3 from Coursera 💻⏳
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |

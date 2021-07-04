@@ -1,36 +1,32 @@
 # Sidebar navigation
 
-- label: 'Home Page'
+- label: 'About me'
   link: '/'
-- label: 'My Roadmap'
+- label: 'Roadmap'
   link: '/roadmap'
 
-- label: 📁 Useful
-  items:
-    - label: 'Links'
-      link: '/link/links'
-    - label: 'Tools'
-      link: '/link/tools'
 
-- label: ⭕ Resources for
+- label: 🟨 JS Notes
   items:
-    - label: 'HTML & CSS'
-      link: '/learning/html-css'
-    - label: 'JavaScript \ React '
-      link: '/learning/javascript-react'
-    - label: 'TypeScript'
-      link: '/learning/typescript'
-    - label: 'Node JS'
-      link: '/learning/nodejs'
-    - label: 'MongoDB'
-      link: '/learning/mongodb'
+    - label: 'Functions'
+      link: '/notes/functions'
+    - label: 'Loops and Iteration'
+      link: '/notes/loops-and-iteration'
+    - label: 'Map - Reduce - Filter'
+      link: '/notes/map-reduce-filter'
+
+- label:  Useful
+  items:
+    - label: '🔗Links and Tools'
+      link: '/link/links-and-tools'
+    - label: '❇️Commands'
+      link: '/link/commands'
+    - label: '⭕Crash Courses'
+      link: '/link/crash-courses'
+
 
 - label: ✉️ More
   items:
-    - label: MDN | JavaScript
-      link: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript'
-    - label: CSS | W3School
-      link: 'https://www.w3schools.com/css/default.asp'
     - label: Contact
       link: /contact
 
