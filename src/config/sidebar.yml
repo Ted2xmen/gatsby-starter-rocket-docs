@@ -4,29 +4,39 @@
   link: '/'
 - label: 'Roadmap'
   link: '/roadmap'
+- label: 'Now'
+  link: '/now'
+- label: 'Uses'
+  link: '/uses'
 
 
-- label: 🟨 JS Notes
+
+- label:  🔗Links
   items:
-    - label: 'Functions'
-      link: '/notes/functions'
-    - label: 'Loops and Iteration'
-      link: '/notes/loops-and-iteration'
-    - label: 'Map - Reduce - Filter'
-      link: '/notes/map-reduce-filter'
+    - label: 'Github'
+      link: https://github.com/Ted2xmen
+    - label: 'Medium'
+      link: https://ted2xmen.medium.com/
+    - label: 'CodePen'
+      link: https://codepen.io/ted2xmen
+    - label: 'Linkedin'
+      link: https://www.linkedin.com/in/tugrulerdemdogru/
+    - label: 'Twitter'
+      link: https://twitter.com/ted2xmen
 
-- label:  Useful
+
+- label:  ❇️Projects
   items:
-    - label: '🔗Links and Tools'
-      link: '/link/links-and-tools'
-    - label: '❇️Commands'
-      link: '/link/commands'
-    - label: '⭕Crash Courses'
-      link: '/link/crash-courses'
-
-
-- label: ✉️ More
-  items:
-    - label: Contact
-      link: /contact
+    - label: 'New Poems'
+      link: https://ted2xmen.github.io/random-ozel/
+    - label: 'Vue Todo App'
+      link: https://ted2xmen.github.io/Vue-Todo-App/
+    - label: 'Searchon'
+      link: https://searchon.vercel.app/
+    - label: 'Patika Projects'
+      link: https://ted2xmen.github.io/Projects/
+    - label: 'Kutuphaneden'
+      link: https://ted2xmen.github.io/kutuphaneden/
+    - label: 'Arastirmanv5'
+      link: https://arastirmanv4.vercel.app/
 

@@ -3,18 +3,6 @@ title: 'My Roadmap'
 description: 
 ---
 
-## Currently
-
-> Working on : [searchON](https://searchon.vercel.app/)   ![GitHub last commit](https://img.shields.io/github/last-commit/ted2xmen/searchon)
-
->  Listening podcasts and looking around ✨
-
->  Watching 📺 Love Death + Robots, Castlevania, Age of Samurai: Battle for Japan
-
->  Playing 🎮 Apex Legends 
-
-
-
 
 
 ## Roadmap
@@ -28,23 +16,17 @@ description:
 
 | LEARN       | Library & Framework   | STATUS  | 
 | ----------  | ----------------------|-------- |
-| CSS         | CSS                   | ✔️✔️✔️⏳⏳    |
-| CSS         | Bootstrap             | ✔️✔️✔️⏳⏳  |
+| CSS         | CSS                   | ✔️✔️✔️✔️⏳    
+| CSS         | Bootstrap             | ✔️✔️✔️✔️⏳  |
 | CSS         | Tailwind             | ✔️⏳⏳⏳⏳  |
 | CSS         | SASS & LESS              | ⏳⏳⏳⏳⏳  |
-
-
->  Freecodecamp ⏳ JavaScript Algorithms and Data Structures
-
 
 | LEARN              |  Library & Framework    | STATUS  | 
 | -----------        | ------------------------|-------- |
 | JavaScript         |                         | ✔️✔️✔️⏳⏳ |
-| JavaScript         |     React               | ✔️⏳⏳⏳⏳  |
+| JavaScript         |     Vue 3             | ✔️⏳⏳⏳⏳  |
 | JavaScript         |     Node JS             | ⏳⏳⏳⏳⏳  |
 | JavaScript         |     Express JS          | ⏳⏳⏳⏳⏳  |
-
-
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
@@ -55,18 +37,11 @@ description:
 
 | LEARN       | STATUS  | 
 | ----------  |-------- |
-| DOCKER     | ✔️⏳⏳⏳⏳  |
+| Docker    | ✔️⏳⏳⏳⏳  |
 | Git   | ✔️✔️✔️⏳⏳  |
-| NPM & YARN   | ✔️✔️⏳⏳⏳  |
+| Webpack   | ✔️⏳⏳⏳  |
 
 
-## Goals & Interests
-
-|      |   | 
-| ----------  |-------- |
-| Learn Gatsby           | ⏳  |
-| Headless CMS      | ⏳  |
-| JAMStack      | ⏳  |
 
 
 ## Courses 
@@ -78,18 +53,13 @@ description:
 
 [Sıfırdan Web Geliştirme Kursu ](https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/)
 
-[Freecodecamp Responsive Web Design  ](https://www.freecodecamp.org/learn/responsive-web-design/)
-
 [Frontend Web Development Patikası  ](https://app.patika.dev/egitimler/frontend-web-development-patikasi)
-
 
 
 
 ## Certificates
 
-![](static/onemonth.png "One Month JavaScript")
+Onemonth JavaScript
 
-
-
-
+Freecodecamp Responsive Web Design
 
